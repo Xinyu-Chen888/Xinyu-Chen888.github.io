@@ -6,7 +6,7 @@ ul {
     background-color: #f1f1f1;
     height: 100%;
     /* 全屏高度 */
-    position: fixed;
+    /*position: fixed;*/
     overflow: auto;
     /* 如果导航栏选项多，允许滚动 */
 }
